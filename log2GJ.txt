@@ -1,3 +1,5 @@
+2021-12-28 2GJ: Clase 4 => Manejo de eventos con UseState.
+2021-12-28 2GJ: Clase 3 => Pasar props y crear el estado error.
 2021-12-27 2GJ: Creacion general de proyecto (UseState.js y ClassState.js)
 2021-12-27 2GJ: Commit de creacion de proyecto y movimiento de carpeta.
 2021-12-27 2GJ: Movimiento de carpetas. Contenido de estado a principal de github.
