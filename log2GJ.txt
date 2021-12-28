@@ -1,0 +1,4 @@
+2021-12-27 2GJ: Commit de creacion de proyecto y movimiento de carpeta.
+2021-12-27 2GJ: Movimiento de carpetas. Contenido de estado a principal de github.
+2021-12-27 2GJ: Creacion de proyecto ReactJs "npx create-react-app estados"
+2021-12-27 2GJ: Creacion de repositorio github.
